@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612843994670",
+    "project_id": "cowinslot-75a0c",
+    "storage_bucket": "cowinslot-75a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612843994670:android:0180ffdb9b9c9abb24e9bf",
+        "android_client_info": {
+          "package_name": "com.example.cowinslot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612843994670-h377ihnjo0aq0ka6og5ig800msiers2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFvzBULRe80g_HVnApJ4ti9myQBta2QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612843994670-h377ihnjo0aq0ka6og5ig800msiers2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
